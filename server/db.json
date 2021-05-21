@@ -1,0 +1,129 @@
+{
+  "credits": [
+    {
+      "id": 1,
+      "file_name": "clientes_credito.xml",
+      "expedition": "02/08/20",
+      "quality": 90,
+      "status": "Finalizado",
+      "finish": "02/08/21",
+      "user": "@goytia"
+    },
+    {
+      "id": 2,
+      "file_name": "clientes_contrato.xml",
+      "expedition": "12/08/20",
+      "quality": 55,
+      "status": "En proceso",
+      "finish": "12/08/21",
+      "user": "@goytia"
+    },
+    {
+      "id": 3,
+      "file_name": "clientes_credito.xml",
+      "expedition": "24/08/20",
+      "quality": 90,
+      "status": "Finalizado",
+      "finish": "24/08/21",
+      "user": "@goytia"
+    },
+    {
+      "id": 4,
+      "file_name": "contrato_clientes.xml",
+      "expedition": "30/08/20",
+      "quality": 88,
+      "status": "Rechazado",
+      "finish": "30/08/21",
+      "user": "@goytia"
+    }
+  ],
+  "softwares": [
+    {
+      "id": 1,
+      "name": "Siebel",
+      "type": "Crédito Grupal"
+    },
+    {
+      "id": 2,
+      "name": "Bantotal",
+      "type": "Crédito Grupal"
+    },
+    {
+      "id": 3,
+      "name": "Mobilender",
+      "type": "Crédito Grupal"
+    },
+    {
+      "id": 3,
+      "name": "Alivio",
+      "type": "Crédito Grupal"
+    },
+    {
+      "name": "VueJS",
+      "type": "Personal",
+      "id": 4
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "avatar": "https://randomuser.me/api/portraits/men/41.jpg",
+      "name": "Miguel Mencía Gijón",
+      "rfc": "MMG100286JSLDRC"
+    },
+    {
+      "id": 2,
+      "avatar": "https://randomuser.me/api/portraits/men/95.jpg",
+      "name": "Miguel Melitón Jiménez",
+      "rfc": "MMG100286JSKDSK"
+    },
+    {
+      "id": 3,
+      "avatar": "https://randomuser.me/api/portraits/men/27.jpg",
+      "name": "Paulo Martinez Ricardez",
+      "rfc": "MARP880222RJ3"
+    }
+  ],
+  "changes": [
+    {
+      "id": 1,
+      "date": "02/08/20",
+      "file": "clientes_credito.xml",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 2,
+      "date": "12/08/20",
+      "file": "clientes_contrato.xml",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 3,
+      "date": "24/08/20",
+      "file": "clientes_credito.xml",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 4,
+      "date": "30/08/20",
+      "file": "clientes-clientes.xml",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@integra.com",
+      "password": "$2a$10$gNXf1kOltaBT9zAkPCmnNeSm0oS1SGmVWTCj3S0RtV0Ap4vhcrfR6",
+      "name": "Paulo Martinez",
+      "avatar": "https://randomuser.me/api/portraits/men/27.jpg",
+      "id": 1
+    },
+    {
+      "email": "sergio@gmail.com",
+      "password": "$2a$10$GQUKtEK4sZjyon3HSDgMLuwNhgnck7NIzAfrkjBag17JnjBhAWqZu",
+      "name": "Sergio",
+      "avatar": "https://randomuser.me/api/portraits/men/27.jpg",
+      "id": 2
+    }
+  ]
+}
